@@ -1,0 +1,54 @@
+﻿  Cat_Push.cpp
+c:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\VisualStudio\kioku\Cat_Push.cpp(48,26): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Cat_Push.cpp(48,20): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Cat_Push.cpp(49,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Cat_Push.cpp(49,21): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Cat_Push_ans.cpp
+c:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\VisualStudio\kioku\Cat_Push_ans.cpp(75,26): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Cat_Push_ans.cpp(75,20): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Cat_Push_ans.cpp(76,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Cat_Push_ans.cpp(76,21): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Chicken_Push.cpp
+c:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\VisualStudio\kioku\Chicken_Push.cpp(47,26): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Chicken_Push.cpp(47,20): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Chicken_Push.cpp(48,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Chicken_Push.cpp(48,21): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Chicken_Push_ans.cpp
+c:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\VisualStudio\kioku\Chicken_Push_ans.cpp(72,26): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Chicken_Push_ans.cpp(72,20): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Chicken_Push_ans.cpp(73,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Chicken_Push_ans.cpp(73,21): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Dog_Push.cpp
+c:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\VisualStudio\kioku\Dog_Push.cpp(49,26): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Dog_Push.cpp(49,20): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Dog_Push.cpp(50,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Dog_Push.cpp(50,21): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Dog_Push_ans.cpp
+c:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\VisualStudio\kioku\Dog_Push_ans.cpp(77,26): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Dog_Push_ans.cpp(77,20): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Dog_Push_ans.cpp(78,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Dog_Push_ans.cpp(78,21): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Elephant_Puch.cpp
+c:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\VisualStudio\kioku\Elephant_Puch.cpp(48,26): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Elephant_Puch.cpp(48,20): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Elephant_Puch.cpp(49,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Elephant_Puch.cpp(49,21): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Elephant_Puch_ans.cpp
+c:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\VisualStudio\kioku\Elephant_Puch_ans.cpp(71,26): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Elephant_Puch_ans.cpp(71,20): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Elephant_Puch_ans.cpp(72,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\VisualStudio\kioku\Elephant_Puch_ans.cpp(72,21): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  8 of 21 functions (38.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  kioku.vcxproj -> C:\VisualStudio\kioku\x64\Release\kioku.exe
